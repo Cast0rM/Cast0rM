@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 
-> **Fullstack Developer | .NET, Vue/Quasar & SQL**
+> **Informatiker EFZ | Fullstack Developer | .NET, Vue/Quasar & SQL**
 > Based in Switzerland 🇨🇭 | Trilingual (DE / ES / EN) | Open to Opportunities
 
 ---
@@ -86,9 +86,20 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
     * 🇬🇧 **English** (Fluent)
 
 ---
+
+### 📊 My GitHub Stats & Activity
+
 <p align="center">
-  <img src="github-metrics.svg" alt="Mi Dashboard de Métricas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cast0rM&show_icons=true&theme=transparent&icon_color=79ff97&text_color=9f9f9f" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cast0rM&layout=compact&theme=transparent&text_color=9f9f9f" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="metrics.svg" alt="Mi Dashboard de Métricas de GitHub" />
+</p>
+
+---
 
 ### 🤝 Connect with Me
 
