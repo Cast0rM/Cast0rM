@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there!
 > **Informatiker EFZ | Fullstack Developer | .NET, Vue/Quasar & SQL**
 > Based in Switzerland 🇨🇭 | Trilingual (DE / ES / EN) | Open to Opportunities
 
@@ -85,8 +84,6 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
     * 🇬🇧 **English** (Fluent / Professional)
 
     ---
-### 📊 My GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cast0rM&show_icons=true&theme=dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
   
