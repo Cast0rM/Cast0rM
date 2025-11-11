@@ -89,7 +89,7 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 <p align="left">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Mono&size=28&duration=60000000&color=13294B&center=true&vCenter=true&width=500&lines=Connect+with+Me+🪝" alt="Connect with Me"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Mono&size=28&duration=6000&color=13294B&center=true&vCenter=true&width=500&lines=Connect+with+Me+🪝" alt="Connect with Me"/>
 </p>
 <p align="center">
   <br/>
