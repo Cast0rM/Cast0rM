@@ -1,0 +1,39 @@
+# Archivo: .github/workflows/metrics.yml
+name: Metrics Dashboard Generation
+on:
+  # Horario: Se ejecuta a medianoche (00:00) todos los días
+  schedule:
+    - cron: '0 0 * * *'
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  # También se ejecuta cada vez que haces push a tu rama principal
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu token de GitHub (se añade automáticamente, es seguro)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- Opciones de Configuración ---
+          user: Cast0rM
+          theme: dark
+          bg_color: 151515
+          config_timezone: Europe/Zurich
+          
+          # --- Plugins que quieres mostrar ---
+          plugins: isocalendar, languages, lines, activity, habits
+          
+          # --- Opciones de los Plugins ---
+          plugin_languages_limit: 8
+          plugin_habits_charts: hours, weekdays
+          plugin_habits_days: 30
+
+          # --- ¡IMPORTANTE! Dónde guardar la imagen ---
+          # Esto guarda el dashboard en un archivo llamado "metrics.svg"
+          output_path: metrics.svg
