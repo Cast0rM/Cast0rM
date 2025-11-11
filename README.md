@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 
-> **Informatiker EFZ | Fullstack Developer | .NET, Vue/Quasar & SQL**
+> **Fullstack Developer | .NET, Vue/Quasar & SQL**
 > Based in Switzerland 🇨🇭 | Trilingual (DE / ES / EN) | Open to Opportunities
 
 ---
