@@ -90,9 +90,10 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/castor-manuel-fern%C3%A1ndez-lado-604493314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/castor-manuel-fern%C3%A1ndez-lado-604493314/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=4000&color=9f9f9f&center=true&vCenter=true&width=500&lines=Find+me+on+LinkedIn;...or+Instagram;...or+send+me+an+Email!" alt="Animated Typing Banner"/>
   </a>
+  
   <a href="https://www.instagram.com/castor__m/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
