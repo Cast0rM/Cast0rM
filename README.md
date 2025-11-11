@@ -87,7 +87,7 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 ---
 
-### Connect with Me 🪝
+### 🪝 Connect with Me
 
 <p align="center">
   <br/>
