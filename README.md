@@ -68,7 +68,7 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40" alt="AWS"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
 * **Languages:**
     * 🇩🇪 **German** (Native)
     * 🇪🇸 **Spanish** (Native)
-    * 🇬🇧 **English** (Fluent / Professional)
+    * 🇬🇧 **English** (Fluent)
 
     ---
 <p align="center">
