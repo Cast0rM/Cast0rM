@@ -91,10 +91,6 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cast0rM&layout=compact&theme=dark&text_color=9f9f9f&bg_color=151515" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-metrics.vercel.app/Cast0rM?theme=dark&layout=compact&config_timezone=Europe/Zurich&config_animated=true&plugins=isocalendar,languages,user" />
-</p>
-
 ### 🤝 Connect with Me
 
 <p align="center">
