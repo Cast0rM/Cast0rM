@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there!
+## 👋 Hi there!
 > **Informatiker EFZ | Fullstack Developer | .NET, Vue/Quasar & SQL**
 > Based in Switzerland 🇨🇭 | Trilingual (DE / ES / EN) | Open to Opportunities
 
