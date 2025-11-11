@@ -3,18 +3,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 > **Informatiker EFZ | Fullstack Developer | .NET, Vue/Quasar & SQL**
 > Based in Switzerland 🇨🇭 | Trilingual (DE / ES / EN) | Open to Opportunities
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
+  <a href="https://www.linkedin.com/in/URL_DE_TU_PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -24,9 +23,9 @@ I'm a Fullstack Developer with a **Bilingual Swiss Federal Diploma (Informatiker
 
 I was a key contributor to the **"WebKennzahlen" application**, a complex system for the Swiss Federal Office of Transport (Bundesamt für Verkehr).
 
-My primary stack is **.NET, SQL, and Vue/Quasar**, but I'm a quick learner and have also worked with **Java/Spring Boot, React, and Angular**. I'm proficient in the complete DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
+My primary stack is **.NET, SQL, and Vue/Quasar**, but I'm a quick learner with experience across a wide range of technologies, including **Java/Spring Boot, React, Angular,** and native mobile development with **Kotlin**.
 
-I'm currently seeking a new challenge in a fast-paced, agile environment.
+I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**. I'm currently seeking a new challenge in a fast-paced, agile environment.
 
 ---
 
@@ -53,6 +52,12 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
 </p>
 
+#### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+</p>
+
 #### 🗃️ Databases & ORMs
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
@@ -68,13 +73,17 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
 </p>
 
 ---
 
 ### 📈 Tools, Methodologies & Languages
 
+* **IDEs & Editors:**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="22" height="22" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="22" height="22" alt="IntelliJ"/>
 * **Workflow:** Kanban
 * **Version Control:** Git
 * **Design & Planning:** Figma, Draw.io, Miro, BPMN 2.0
@@ -83,9 +92,8 @@ I'm currently seeking a new challenge in a fast-paced, agile environment.
     * 🇪🇸 **Spanish** (Native)
     * 🇬🇧 **English** (Fluent)
 
-    ---
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cast0rM&show_icons=true&theme=dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cast0rM&layout=compact&theme=dark&text_color=9f9f9f&bg_color=151515" alt="Top Languages"/>
 </p>
