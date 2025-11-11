@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
-  <a href="https://www.linkedin.com/in/URL_DE_TU_PERFIL" target="_blank">
+  <a href="https://www.linkedin.com/in/castor-manuel-fern%C3%A1ndez-lado-604493314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
