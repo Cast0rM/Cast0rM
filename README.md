@@ -87,10 +87,8 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 ---
 
-<p align="left">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=500&size=20&duration=6000&pause=1000&color=13294B&repeat=false&width=435&lines=Connect+with+Me%F0%9F%AA%9D)](https://git.io/typing-svg)
-</p>
+### Connect with Me 🪝
+
 <p align="center">
   <br/>
 
