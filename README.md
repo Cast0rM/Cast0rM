@@ -96,7 +96,7 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 </p>
 
 <p align="center">
-  <img src="metrics.svg" alt="Mi Dashboard de Métricas de GitHub" />
+  <img src="github-metrics.svg" alt="Mi Dashboard de Métricas de GitHub" />
 </p>
 
 ---
