@@ -89,12 +89,12 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 <p align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=500&size=28&duration=6000&pause=1000&color=13294B&repeat=false&width=435&lines=Connect+with+Me%F0%9F%AA%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=500&size=20&duration=6000&pause=1000&color=13294B&repeat=false&width=435&lines=Connect+with+Me%F0%9F%AA%9D)](https://git.io/typing-svg)
 </p>
 <p align="center">
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Mono&size=22&duration=4000&color=13294B&center=true&vCenter=true&width=500&lines=Find+me+on+LinkedIn;...or+Instagram;" alt="Find me on LinkedIn or Instagram"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Mono&size=16&duration=4000&color=13294B&center=true&vCenter=true&width=500&lines=Find+me+on+LinkedIn;...or+Instagram;" alt="Find me on LinkedIn or Instagram"/>
 
   <br/>
   <a href="https://www.linkedin.com/in/castor-manuel-fern%C3%A1ndez-lado-604493314/" target="_blank">
