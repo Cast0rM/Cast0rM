@@ -87,7 +87,7 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 ---
 <p align="center">
-  <img src="https://github-metrics.vercel.app/Cast0rM?theme=dark&bg_color=151515&layout=compact&config_timezone=Europe/Zurich&plugins=isocalendar,languages,lines,activity,habits&plugin_languages_limit=8&plugin_habits_charts=hours,weekdays&plugin_habits_days=30" alt="Mi Dashboard de Métricas de GitHub" />
+  <img src="metrics.svg" alt="Mi Dashboard de Métricas de GitHub" />
 </p>
 
 ### 🤝 Connect with Me
