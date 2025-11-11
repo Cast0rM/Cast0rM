@@ -89,7 +89,7 @@ I'm proficient in the DevOps lifecycle, using **Docker, Kubernetes, and Azure**.
 
 <p align="left">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Mono&size=28&duration=6000&color=13294B&center=true&vCenter=true&width=500&lines=Connect+with+Me+🪝" alt="Connect with Me"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=500&size=28&duration=6000&pause=1000&color=13294B&repeat=false&width=435&lines=Connect+with+Me%F0%9F%AA%9D)](https://git.io/typing-svg)
 </p>
 <p align="center">
   <br/>
